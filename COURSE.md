@@ -43,6 +43,26 @@ Karpathy's official [LLM101n](README.md) course content doesn't exist yet — on
 - **Chapters 11–16** turn your toy model into a product — each is doable in a few days.
 - **Chapter 17** is a mini-course of its own; treat it as a capstone.
 
+## Showcase your learning
+
+Working in public compounds: it forces clean write-ups, builds a portfolio, and attracts feedback from people ahead of you. As you progress:
+
+**Share as you build**
+- Read [swyx — Learn in Public](https://www.swyx.io/learn-in-public) once, early. Then: one public GitHub repo for your Storyteller, one short write-up per chapter milestone (what you built, a loss curve, sample stories).
+- Publish artifacts on the Hugging Face Hub: [upload your model](https://huggingface.co/docs/hub/models-uploading) and dataset, demo it in a Space (Chapter 16), post short updates on [HF Posts](https://huggingface.co/posts), and write longer pieces as [community blog articles](https://huggingface.co/blog/community) — or on [dev.to](https://dev.to/)/your own blog.
+
+**Competitions & leaderboards**
+- [Kaggle competitions](https://www.kaggle.com/competitions) — regular NLP/LLM competitions, plus a medal/ranking system that doubles as public recognition (useful from ~Chapter 5 on).
+- [modded-nanogpt speedrun](https://github.com/KellerJordan/modded-nanogpt) — the GPT-2 training speedrun leaderboard; even a failed record attempt is a great write-up (Chapters 5–10).
+- [GPU MODE kernel leaderboard](https://www.gpumode.com/) — competitive kernel writing against humans and AI, with [official problem sets](https://github.com/gpu-mode/reference-kernels) and sponsored challenges; pairs with [LeetGPU](https://leetgpu.com/) practice (Chapter 8+).
+- AI hackathons on [lablab.ai](https://lablab.ai/) and [Devpost](https://devpost.com/) — deadline-driven excuses to ship Chapter 16-style apps.
+
+**Recognition as you level up**
+- Contribute upstream: issues and PRs to [llm.c](https://github.com/karpathy/llm.c), [llama.cpp](https://github.com/ggml-org/llama.cpp), or [transformers' good-first-issues](https://github.com/huggingface/transformers/contribute). Merged PRs in known repos are strong, verifiable signal.
+- Join communities where work gets noticed: the [GPU MODE Discord](https://discord.gg/gpumode), [EleutherAI](https://www.eleuther.ai/) (open research collaborations have turned Discord regulars into paper co-authors), and the Zero to Hero Discord linked from [karpathy.ai/zero-to-hero](https://karpathy.ai/zero-to-hero.html).
+- Want credentials? [Kaggle Learn](https://www.kaggle.com/learn) and [DeepLearning.AI](https://www.deeplearning.ai/courses/) issue free/cheap certificates — but a public repo with write-ups outweighs certificates in this field.
+- Going deep on interpretability/alignment (post-ARENA)? Apply to research programs like [MATS](https://www.matsprogram.org/).
+
 ## The running project
 
 To mirror the "Storyteller" spirit, carry one project through the whole course:
